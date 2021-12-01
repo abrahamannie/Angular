@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AssetManagement"
+    }
+  },
+  "defaultProject": "AssetManagement",
+  "cli": {
+    "analytics": "1b5b7523-79be-407c-8f5b-cbeb251fbc49"
+  }
 }
